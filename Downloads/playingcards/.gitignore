@@ -1,0 +1,9 @@
+# Ignore everything outside this folder
+../
+../../
+
+# Common junk files
+.DS_Store
+desktop.ini
+*.exe
+*.zip
